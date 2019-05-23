@@ -6,3 +6,7 @@ git add SI_lab2_171010_Nikola_Anastasovski.docx
 git commit -m "Added a new branch"
 git push origin lab3branch
 notepad komandi.txt
+git push origin lab3branch
+git add SI_lab2_171010_Nikola_Anastasovski.pdf
+git commit -m "Added .pdf version of elaborat"
+git push origin lab3branch

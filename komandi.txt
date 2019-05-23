@@ -1,0 +1,8 @@
+git clone https://github.com/Alokin24/SI_171010_lab1
+cd SI_171010_lab1
+git checkout elaborat
+git checkout -b lab3branch
+git add SI_lab2_171010_Nikola_Anastasovski.docx
+git commit -m "Added a new branch"
+git push origin lab3branch
+notepad komandi.txt
